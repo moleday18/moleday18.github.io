@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+Puzzle 7: The Great Organelle Mystery
+<body>
+
+Once upon a time, there was a happy little town called Cellville. It seemed like a normal day, but suddenly, all the organelles in Cellville stopped working. “There seems to be a missing molecule,” said the organelle police, “but we can’t figure out what it is.” 
+“Don’t worry,” you say, “I’ll figure it out!” as you set out on your journey to recover the missing molecule.
+
+In your search, you stumble across a library with rolling shelves full of shiny metallic-plated novels made of element 24. You decide to check around eight of the shelves for clues and codes and see...
+
+
+POLONIUM (5)
+ELLIPTICAL ORBITS (6)
+ORBITAL MODEL (4)
+X-RAY DOUBLE HELIX (8)
+NATURAL SELECTION (6)
+SPACETIME ODYSSEY (5)
+ALTERNATING CURRENT (5)
+ROGERS COMMISSION & CAIB (4)
+
+</body></html>
